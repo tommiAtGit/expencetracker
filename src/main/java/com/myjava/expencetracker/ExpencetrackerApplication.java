@@ -1,4 +1,4 @@
-package com.myjava.expencetracker.expencetracker.expencetracker;
+package com.myjava.expencetracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

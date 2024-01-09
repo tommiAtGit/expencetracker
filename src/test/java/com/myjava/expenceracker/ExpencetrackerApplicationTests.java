@@ -1,9 +1,12 @@
-package com.myjava.expencetracker.expencetracker.expencetracker;
+package com.myjava.expenceracker;
+
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+import com.myjava.expencetracker.ExpencetrackerApplication;
+
+@SpringBootTest(classes=ExpencetrackerApplication.class)
 class ExpencetrackerApplicationTests {
 
 	@Test
